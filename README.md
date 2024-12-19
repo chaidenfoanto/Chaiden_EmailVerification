@@ -1,1 +1,1 @@
-# LMS-PHPUnit-Chaiden
+# Chaiden_EmailVerification
